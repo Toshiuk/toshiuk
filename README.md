@@ -1,9 +1,7 @@
 <h1 align="center">Hello 🙃, I'm Flavio Toshiuk</h1>
 <h3 align="center">Developer living in Portugal.</h3>
 
-- 🔭 I’m currently working on [Syone](https://www.syone.com/)
-
-- ⚙️ In a [Portima project](https://www.portima.com/)
+- 🔭 I’m currently working at [Evolution](https://www.evolution.com/)
 
 - 📫 How to reach me **flaviotoshiukhjr@outlook.com**
 
